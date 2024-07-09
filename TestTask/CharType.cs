@@ -8,11 +8,11 @@
         /// <summary>
         /// Гласные
         /// </summary>
-        Vowel,
+        Vowel = 0,
 
         /// <summary>
         /// Согласные
         /// </summary>
-        Consonants
+        Consonants = 1
     }
 }
